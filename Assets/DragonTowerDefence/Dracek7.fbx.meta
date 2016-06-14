@@ -1,0 +1,1249 @@
+fileFormatVersion: 2
+guid: e2a96bb2b41cd2e40aaba2fa3b2bb973
+timeCreated: 1465929636
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aug_L
+    100002: aug_lied_O_L
+    100004: aug_lied_O_R
+    100006: aug_lied_U_L
+    100008: aug_lied_U_R
+    100010: Aug_R
+    100012: Bauch
+    100014: Bauch.001
+    100016: Bauch.003
+    100018: Becken
+    100020: Braun_O_L
+    100022: Braun_O_R
+    100024: Brust
+    100026: dRACEK3
+    100028: //RootNode
+    100030: Hals
+    100032: Hals_fett
+    100034: Kopf
+    100036: Kopf.002
+    100038: Mauloben
+    100040: Mauloben.002
+    100042: Mauloben.003
+    100044: Maulunten
+    100046: Mball.000
+    100048: Mball.001
+    100050: MundW_L
+    100052: MundW_R
+    100054: Oberarm_L
+    100056: Oberarm_R
+    100058: Oberschenkel_L
+    100060: Oberschenkel_R
+    100062: Ohr_L
+    100064: Ohr_R
+    100066: Pfote1_L
+    100068: Pfote1_R
+    100070: Pfote2_L
+    100072: Pfote2_R
+    100074: root
+    100076: Schalterplatte_L
+    100078: Schalterplatte_L.001
+    100080: Schalterplatte_L.002
+    100082: Schalterplatte_L.003
+    100084: Schalterplatte_R
+    100086: Schalterplatte_R.001
+    100088: Schalterplatte_R.002
+    100090: Schalterplatte_R.003
+    100092: Schwanz
+    100094: Schwanz.001
+    100096: Schwanz.002
+    100098: Schwanz.003
+    100100: Unterarm_L
+    100102: Unterarm_R
+    100104: Unterkiefer
+    100106: Unterschenkel_L
+    100108: Unterschenkel_R
+    100110: Vorderpfote_L
+    100112: Vorderpfote_R
+    100114: Wolf_obj_body.004
+    100116: Wolf_obj_body.007
+    100118: Wolf_Skeleton.001
+    400000: aug_L
+    400002: aug_lied_O_L
+    400004: aug_lied_O_R
+    400006: aug_lied_U_L
+    400008: aug_lied_U_R
+    400010: Aug_R
+    400012: Bauch
+    400014: Bauch.001
+    400016: Bauch.003
+    400018: Becken
+    400020: Braun_O_L
+    400022: Braun_O_R
+    400024: Brust
+    400026: dRACEK3
+    400028: //RootNode
+    400030: Hals
+    400032: Hals_fett
+    400034: Kopf
+    400036: Kopf.002
+    400038: Mauloben
+    400040: Mauloben.002
+    400042: Mauloben.003
+    400044: Maulunten
+    400046: Mball.000
+    400048: Mball.001
+    400050: MundW_L
+    400052: MundW_R
+    400054: Oberarm_L
+    400056: Oberarm_R
+    400058: Oberschenkel_L
+    400060: Oberschenkel_R
+    400062: Ohr_L
+    400064: Ohr_R
+    400066: Pfote1_L
+    400068: Pfote1_R
+    400070: Pfote2_L
+    400072: Pfote2_R
+    400074: root
+    400076: Schalterplatte_L
+    400078: Schalterplatte_L.001
+    400080: Schalterplatte_L.002
+    400082: Schalterplatte_L.003
+    400084: Schalterplatte_R
+    400086: Schalterplatte_R.001
+    400088: Schalterplatte_R.002
+    400090: Schalterplatte_R.003
+    400092: Schwanz
+    400094: Schwanz.001
+    400096: Schwanz.002
+    400098: Schwanz.003
+    400100: Unterarm_L
+    400102: Unterarm_R
+    400104: Unterkiefer
+    400106: Unterschenkel_L
+    400108: Unterschenkel_R
+    400110: Vorderpfote_L
+    400112: Vorderpfote_R
+    400114: Wolf_obj_body.004
+    400116: Wolf_obj_body.007
+    400118: Wolf_Skeleton.001
+    2300000: Mball.000
+    2300002: Mball.001
+    2300004: Wolf_obj_body.004
+    2300006: Wolf_obj_body.007
+    3300000: Mball.000
+    3300002: Mball.001
+    3300004: Wolf_obj_body.004
+    3300006: Wolf_obj_body.007
+    4300000: Mball.000
+    4300002: Mball.001
+    4300004: dRACEK3
+    4300006: Wolf_obj_body.004
+    4300008: Wolf_obj_body.007
+    7400000: Wolf_Skeleton.001|000
+    7400002: Wolf_Skeleton.001|Wolf_creep_cycle
+    7400004: Wolf_Skeleton.001|Wolf_Idle_
+    7400006: Wolf_Skeleton.001|Wolf_Run_Cycle_
+    7400008: Wolf_Skeleton.001|Wolf_seat_
+    7400010: Wolf_Skeleton.001|Wolf_Walk_cycle_
+    7400012: Wse
+    9500000: //RootNode
+    13700000: dRACEK3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wolf_Skeleton.001|000
+      takeName: Wolf_Skeleton.001|000
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dRACEK3
+        weight: 1
+      - path: Wolf_obj_body.004
+        weight: 1
+      - path: Wolf_obj_body.007
+        weight: 1
+      - path: Wolf_Skeleton.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L/Vorderpfote_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R/Vorderpfote_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Aug_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Hals_fett
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Maulunten
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L/Pfote2_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R/Pfote2_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002/Schwanz.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.000
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.001
+        weight: 1
+      - path: Wolf_Skeleton.001/root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wolf_Skeleton.001|Wolf_creep_cycle
+      takeName: Wolf_Skeleton.001|Wolf_creep_cycle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dRACEK3
+        weight: 1
+      - path: Wolf_obj_body.004
+        weight: 1
+      - path: Wolf_obj_body.007
+        weight: 1
+      - path: Wolf_Skeleton.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L/Vorderpfote_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R/Vorderpfote_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Aug_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Hals_fett
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Maulunten
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L/Pfote2_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R/Pfote2_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002/Schwanz.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.000
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.001
+        weight: 1
+      - path: Wolf_Skeleton.001/root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wolf_Skeleton.001|Wolf_Idle_
+      takeName: Wolf_Skeleton.001|Wolf_Idle_
+      firstFrame: 0
+      lastFrame: 990
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dRACEK3
+        weight: 1
+      - path: Wolf_obj_body.004
+        weight: 1
+      - path: Wolf_obj_body.007
+        weight: 1
+      - path: Wolf_Skeleton.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L/Vorderpfote_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R/Vorderpfote_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Aug_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Hals_fett
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Maulunten
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L/Pfote2_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R/Pfote2_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002/Schwanz.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.000
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.001
+        weight: 1
+      - path: Wolf_Skeleton.001/root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wolf_Skeleton.001|Wolf_Run_Cycle_
+      takeName: Wolf_Skeleton.001|Wolf_Run_Cycle_
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dRACEK3
+        weight: 1
+      - path: Wolf_obj_body.004
+        weight: 1
+      - path: Wolf_obj_body.007
+        weight: 1
+      - path: Wolf_Skeleton.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L/Vorderpfote_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R/Vorderpfote_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Aug_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Hals_fett
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Maulunten
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L/Pfote2_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R/Pfote2_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002/Schwanz.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.000
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.001
+        weight: 1
+      - path: Wolf_Skeleton.001/root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wolf_Skeleton.001|Wolf_seat_
+      takeName: Wolf_Skeleton.001|Wolf_seat_
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dRACEK3
+        weight: 1
+      - path: Wolf_obj_body.004
+        weight: 1
+      - path: Wolf_obj_body.007
+        weight: 1
+      - path: Wolf_Skeleton.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L/Vorderpfote_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R/Vorderpfote_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Aug_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Hals_fett
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Maulunten
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L/Pfote2_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R/Pfote2_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002/Schwanz.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.000
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.001
+        weight: 1
+      - path: Wolf_Skeleton.001/root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wolf_Skeleton.001|Wolf_Walk_cycle_
+      takeName: Wolf_Skeleton.001|Wolf_Walk_cycle_
+      firstFrame: 0
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dRACEK3
+        weight: 1
+      - path: Wolf_obj_body.004
+        weight: 1
+      - path: Wolf_obj_body.007
+        weight: 1
+      - path: Wolf_Skeleton.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L/Vorderpfote_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R/Vorderpfote_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Aug_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Hals_fett
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Maulunten
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L/Pfote2_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R/Pfote2_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002/Schwanz.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.000
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.001
+        weight: 1
+      - path: Wolf_Skeleton.001/root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Wse
+      takeName: Wolf_Skeleton.001|Wolf_Walk_cycle_.001
+      firstFrame: 0
+      lastFrame: 570
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dRACEK3
+        weight: 1
+      - path: Wolf_obj_body.004
+        weight: 1
+      - path: Wolf_obj_body.007
+        weight: 1
+      - path: Wolf_Skeleton.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L/Oberarm_L/Unterarm_L/Vorderpfote_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_L.001/Schalterplatte_L.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R/Oberarm_R/Unterarm_R/Vorderpfote_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Bauch.003/Schalterplatte_R.001/Schalterplatte_R.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/aug_lied_U_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Aug_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Braun_O_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Mauloben/Mauloben.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/MundW_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Ohr_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Hals_fett
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Bauch/Bauch.001/Brust/Hals/Kopf.002/Kopf/Unterkiefer/Maulunten
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_L/Unterschenkel_L/Pfote1_L/Pfote2_L
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Oberschenkel_R/Unterschenkel_R/Pfote1_R/Pfote2_R
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002
+        weight: 1
+      - path: Wolf_Skeleton.001/Becken/Schwanz/Schwanz.001/Schwanz.002/Schwanz.003
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.000
+        weight: 1
+      - path: Wolf_Skeleton.001/Mball.001
+        weight: 1
+      - path: Wolf_Skeleton.001/root
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
